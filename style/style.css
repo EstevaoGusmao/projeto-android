@@ -42,6 +42,14 @@ header {
     padding-top: 40px;
 }
 
+header img.qrcode {
+    position: absolute;
+    width: 6%;
+    top: 0;
+    left: 0;
+    padding: 15px 0px 0px 10px;
+}
+
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
